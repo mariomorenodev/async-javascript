@@ -1,2 +1,2 @@
 # async-javascript
-Couse of async javascript
+Course of async javascript
